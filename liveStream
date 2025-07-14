@@ -1,4 +1,6 @@
-江苏魔百盒,#genre#
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-1",CCTV-1
+# 江苏魔百盒,#genre#
+央视频道,#genre#
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
@@ -147,6 +149,7 @@ CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+卫视频道,#genre#
 东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
 东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8
